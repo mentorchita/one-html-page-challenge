@@ -28,6 +28,11 @@ The goal is to create anything you want within 1 single html file. Practice your
  - [**What's Going On?** -  Ep #5 (Worst Traffic Bottleneck In North America, IOS vs Android, What's 5g?)](https://www.stitcher.com/show/gronzo/episode/whats-going-on-ep-5-worst-traffic-bottleneck-in-north-america-ios-vs-android-whats-5g-63569131)
  - [**JPEGZILLA** - findings](https://jpegzilla.com/blog/posts/20190724.html)
  - [**chenhuijing.com** - Recreating the Fool's Mate chess move with CSS Grid](https://chenhuijing.com/blog/recreating-the-fools-mate-chess-move-with-css-grid/#%F0%9F%92%BB)
+ - [**Advent One** - ansible-challenge](https://github.com/AdventOne/ansible-challenge)
+ - [**Hello Github** - Volume 70](https://hellogithub.com/periodical/volume/70/)
+ - [**Dev Awesome** - Issue #14](https://devawesome.io/archive/14)
+ - [**Tympanus** - Collective #531](https://tympanus.net/codrops/collective/collective-531/)
+ - [**Phoenix Code Editor** - Default Project for HTML Games](https://phcode.dev/)
 
 _If you write a blog or post about the challenge, feel free to add to the list_
  
@@ -44,3 +49,7 @@ _If you write a blog or post about the challenge, feel free to add to the list_
  - [How to render images in HTML with base64 strings](https://stackoverflow.com/a/41057998)
  - [Convert images to base64](https://www.browserling.com/tools/image-to-base64)
 
+## Contributors
+<a href="https://github.com/Metroxe/one-html-page-challenge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Metroxe/one-html-page-challenge" />
+</a>
