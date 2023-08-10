@@ -331,5 +331,12 @@ const entries = [
 		author: "Prateek Singh",
 		github: "7ORP3DO",
 		compatibleBrowsers: ["Chrome","Edge","Firefox","Internet Explorer","Opera","Safari"],
+	},
+	{
+		title: "Roman Khymytsia Page",
+		filename: "roman-khymytsia.html",
+		description: "My test page",
+		author: "Roman Khymytsia (RomahaH)",
+		github: "RomahaH",
 	}
 ];
