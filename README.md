@@ -5,7 +5,7 @@ The goal is to create anything you want within 1 single html file. Practice your
 ### [View Submissions](https://onehtmlpagechallenge.com)
 
 ## Rules
- - You must write all of your code in 1 single HTML file.
+ - You must write all of your code in 1 single HTML file.1
  - Your file must be less than 1mb (measured by the file size on github).
  - You cannot import any external files (this will be checked by looking at the network tab in chrome).
  - Due to the nature of hiding lots of funtionality behind APIs, you cannot have any incoming network requests.
